@@ -36,7 +36,7 @@ Clojure](https://www.pluralsight.com/courses/functional-programming-clojure ).
 
 ## Над доработкой проекта работали:
 
-1. Стушенко Иван
+1. Стешенко Иван
 2. Арабова Дея
 3. Затонская Мария
 
