@@ -1,0 +1,4 @@
+{:desc "You entered a dark, gloomy corridor."
+ :exits {:west :cathedral :east :start}}
+
+

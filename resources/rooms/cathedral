@@ -1,0 +1,3 @@
+{:desc "Behind the door was a cathedral. A powerful energy is felt within its walls."
+ :exits {:east :darkgroomyhallway} 
+ :items #{:cross}}

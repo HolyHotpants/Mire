@@ -1,0 +1,2 @@
+{:desc "You enter a large room, in the middle of which stands a powerful demon"
+ :exits {:north :hallway}}
